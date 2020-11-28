@@ -1,0 +1,41 @@
+- deily movement  ---(add operation- export eccl,csv)
+- books           ---(add - edit -remove - all books - one book -search - export,import)
+- clients        ----(add-edit - exprot, import)
+- reports :
+    - client      ----(one client , top 10)from - to -export
+    - books       ----(one book , top 10) - export
+    -monthly(default)-(export)
+    -from= to
+- history(admin)    ---actions[daily movement]- filter(time , book , client )
+- dashbord          ---today actians
+- settintgs(user- premssions ,gmail ,branch)
+
+-users[admin , employee]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+-books
+
+
+
+
+
+
+
